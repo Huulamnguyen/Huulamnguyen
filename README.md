@@ -10,6 +10,8 @@
 
 🛠 Architecture design and route control with multiple **back-end technologies** such as **ExpressJS** and **Rails** with experience in ORM such as **Mongoose**, and **Active Record**. Using **MySQL, MongoDB, and PostgreSQL to handle both SQL and no-SQL databases**.
 
+✍ I'm learning DevOps
+
 📫 How to reach me: **liamnguyen.swe@gmail.com**
 
 😄 Pronouns: He/Him
