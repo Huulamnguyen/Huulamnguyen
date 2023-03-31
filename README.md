@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🥰 My name is **Lam Nguyen**. I'm currently a **full stack developer** located in Long Island, New York
+🥰 My name is **Lam Nguyen**. I'm currently a **full stack developer** located in Long Island, New York 🇺🇸
 
 👉 Feel free to look at my portfolio: [comming soon ...] and my [resume](https://resume.io/r/gNzy8XZVB)
 
@@ -12,8 +12,8 @@
 
 ✍ I'm learning DevOps
 
-📫 How to reach me: **liamnguyen.swe@gmail.com**
-
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Gym, Swimming, Travelling
+⚡ What I love to do: Bloging my tech journey, Gym, Swimming, Travelling
+
+📫 How to reach me: **liamnguyen.swe@gmail.com**
