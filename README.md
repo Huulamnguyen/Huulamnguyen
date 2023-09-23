@@ -2,7 +2,7 @@
 
 🥰 My name is **Lam Nguyen**. I'm currently a **full stack developer** located in Long Island, New York 🇺🇸
 
-👉 Feel free to look at my [portfolio](https://lamng.io/) and my [resume](https://resume.io/r/gNzy8XZVB)
+👉 Feel free to look at my [portfolio](https://lamng.io/) and my [resume](https://docs.google.com/document/d/1h-buG5emsA-NMHMAhUKjSmRed8qICVgVesWikRyMFzQ/edit?usp=sharing)
 
 🔭 **MERN Full Stack Developer** working on multiple projects and expertise in the design, installation, testing, and maintenance of software systems.
 
