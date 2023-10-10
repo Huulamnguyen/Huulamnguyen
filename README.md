@@ -4,7 +4,7 @@
 
 👉 Feel free to look at my [portfolio](https://lamng.io/) and my [resume](https://docs.google.com/document/d/1h-buG5emsA-NMHMAhUKjSmRed8qICVgVesWikRyMFzQ/edit?usp=sharing)
 
-🔭 **MERN Full Stack Developer** working on multiple projects and expertise in the design, installation, testing, and maintenance of software systems.
+🔭 **Full-Stack Developer** working on multiple projects and expertise in the design, installation, testing, and maintenance of software systems.
 
 🧰 Solid understanding of `JavaScript`, `Java`, `Python`, `HTML/ CSS`, `React`, `NextJS`, `Redux`, `MobX`, and many CSS frameworks such as `Material UI`, `Bootstrap`, and `Tailwind CSS` to handle many types of `UI front-end`.
 
