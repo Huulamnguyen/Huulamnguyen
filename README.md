@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🥰 My name is **Lam Nguyen**. I'm currently a **full stack developer** located in Long Island, New York 🇺🇸
+🥰 My name is **Lam Nguyen**. I'm currently a **PhD Researcher** at NYIT, located in New York City 🇺🇸
 
 👉 Feel free to look at my [portfolio](https://lamng.io/) and my [resume](https://docs.google.com/document/d/1h-buG5emsA-NMHMAhUKjSmRed8qICVgVesWikRyMFzQ/edit?usp=sharing)
 
